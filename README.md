@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there -->
 
 <!--
 **juliosouzam/juliosouzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  ### Hello, friend!
+  ### Hello, friend! 👋
   
   - 🔭 I’m currently working in Sistema FIEC as a Software Developer
   - 🌱 I’m currently learning Clean Architecture, DDD and TDD with Typescript
