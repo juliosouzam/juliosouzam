@@ -25,5 +25,5 @@ Here are some ideas to get you started:
   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/juliosouzam)
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/julio-souzam/)
   
-  [![Stats](https://github-readme-stats.vercel.app/api?username=juliosouzam&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=juliosouzam&show_icons=true&theme=radical)
+  [![Stats](https://github-readme-stats.vercel.app/api/?username=juliosouzam&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000)](https://github-readme-stats.vercel.app/api/?username=juliosouzam&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000)
   
