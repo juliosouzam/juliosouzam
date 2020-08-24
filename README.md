@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/julio-souzam/)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/juliosouzam)
 
-Study at **Unichristus** - Major in **Information Systems**💻
+Study at **Unichristus** - I'm majoring in **Information Systems**💻
 
 I’m currently working in Sistema FIEC as a Software Developer
 
