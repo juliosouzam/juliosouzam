@@ -14,16 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-  ### Hello, friend! 👋
-  
-  - 🔭 I’m currently working in Sistema FIEC as a Software Developer
-  - 🌱 I’m currently learning Clean Architecture, DDD and TDD with Typescript
-  - 👯 I’m looking to collaborate on open-source projects.
-  
-  #### 📫 How to reach me:   
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/julio-souzam/)
-  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/juliosouzam)
+# Hello friend.
 
-  [![Stats](https://github-readme-stats.vercel.app/api/?username=juliosouzam&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000)](https://github-readme-stats.vercel.app/api/?username=juliosouzam&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000)
-  
+## I am Júlio César!
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/julio-souzam/)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/juliosouzam)
+
+Study at **Unichristus** - Major in **Information Systems**💻
+
+I’m currently working in Sistema FIEC as a Software Developer
+
+I’m currently learning Clean Architecture, DDD and TDD with Typescript
+
+I’m looking to collaborate on open-source projects.
+
+## My interest ❤️
+
+**Web Developement, Architecture** ☁️
+
+**Algorithms, Container, Microservice, Node.js, React.js and React Native**
+
+<img  src="https://github-readme-stats.vercel.app/api?username=juliosouzam&show_icons=true&icon_color=6392DF&hide=prs">
+
+</div>
