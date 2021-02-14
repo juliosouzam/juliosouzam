@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 Study at **Unichristus** - I'm majoring in **Information Systems**💻
 
-I’m currently working in Sistema FIEC as a Software Developer
+I’m currently working in Blanko as a Backend Developer
 
 I’m currently learning Clean Architecture, DDD and TDD with Typescript
 
