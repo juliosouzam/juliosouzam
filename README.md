@@ -38,6 +38,6 @@ I’m looking to collaborate on open-source projects.
 
 **Algorithms, Container, Microservice, Node.js, React.js and React Native**
 
-<img  src="https://github-readme-stats.vercel.app/api?username=juliosouzam&theme=dar&show_icons=true&icon_color=6392DF&hide=prs">
+<img  src="https://github-readme-stats.vercel.app/api?username=juliosouzam&theme=dark&show_icons=true&icon_color=6392DF&hide=prs">
 
 </div>
